@@ -1,0 +1,20 @@
+{
+  "name": "nodejs25",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.19.2",
+    "nodemon": "^3.1.10"
+  }
+}

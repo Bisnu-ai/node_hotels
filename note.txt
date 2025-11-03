@@ -1,0 +1,5 @@
+bodyparser"=
+==>is a middle ware,it use to parse and extract the body of incoming HTTP request
+
+==> const bodyParser = require("body-parser");
+app.use(bodyParser.json());
